@@ -26,7 +26,7 @@ This application allows users to:
 1. **Clone or Download the Repository**:
    - If you cloned the repository:
      ```bash
-     git clone https://github.com/your-github-nickname/number-guessing-game.git
+     git clone https://github.com/ColdBoy66/number-guessing-game.git
      cd number-guessing-game
      ```
    - Alternatively, download the ZIP file and extract it.
